@@ -15,3 +15,8 @@ Two Sum: https://github.com/naashonomics/prep_interview_75days/blob/master/two_s
 Three Sum: https://github.com/naashonomics/prep_interview_75days/blob/master/3sum.ipynb 
 
 (Leet Code 15 : https://leetcode.com/problems/3sum)
+
+Dutch National Flag Problem or Colour Sort problem: https://github.com/naashonomics/prep_interview_75days/blob/master/Dutch_National_Flag_Problem.ipynb 
+
+(Leet code  75: https://leetcode.com/problems/sort-colors/ )
+
