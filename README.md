@@ -11,3 +11,7 @@ Single Number : https://github.com/naashonomics/prep_interview_75days/blob/maste
 Two Sum: https://github.com/naashonomics/prep_interview_75days/blob/master/two_sum.ipynb 
 
 (Leet Code 1: https://leetcode.com/problems/two-sum/ )
+
+Three Sum: https://github.com/naashonomics/prep_interview_75days/blob/master/3sum.ipynb 
+
+(Leet Code 15 : https://leetcode.com/problems/3sum)
