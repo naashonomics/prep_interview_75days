@@ -22,4 +22,6 @@ Dutch National Flag Problem or Colour Sort problem: https://github.com/naashonom
 
 Permutation: 
 
+https://github.com/naashonomics/prep_interview_75days/blob/master/Permutations.ipynb
+
 (Leet code  46: https://leetcode.com/problems/permutations/ )
