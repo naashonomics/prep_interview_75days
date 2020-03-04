@@ -20,3 +20,6 @@ Dutch National Flag Problem or Colour Sort problem: https://github.com/naashonom
 
 (Leet code  75: https://leetcode.com/problems/sort-colors/ )
 
+Permutation: 
+
+(Leet code  46: https://leetcode.com/problems/permutations/ )
